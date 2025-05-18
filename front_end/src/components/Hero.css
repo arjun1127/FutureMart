@@ -1,0 +1,53 @@
+.hero-section {
+  width: 100%;
+  height: auto;         /* let content define height */
+  overflow: hidden;
+  position: relative;
+}
+
+
+canvas {
+  display: block;
+}
+@media (max-width: 767px) {
+  .hero-section {
+    height: auto;
+    min-height: 0;
+  }
+}
+
+.scroll-hint {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 600;
+  user-select: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  pointer-events: none;
+  opacity: 0.8;
+  font-family: 'Arial', sans-serif;
+}
+
+.arrow-down {
+  width: 20px;
+  height: 20px;
+  border-left: 3px solid white;
+  border-bottom: 3px solid white;
+  transform: rotate(45deg);
+  margin-bottom: 6px;
+  animation: bounce 1.5s infinite;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0) rotate(45deg);
+  }
+  50% {
+    transform: translateY(8px) rotate(45deg);
+  }
+}

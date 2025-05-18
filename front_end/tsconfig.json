@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@/*": ["./src/*"]
+      },
+      "allowJs": true,
+      "checkJs": false,
+      "moduleResolution": "node",
+      "module": "esnext",
+      "target": "esnext",
+      "lib": ["dom", "esnext"],
+      "jsx": "react-jsx"
+    },
+    "include": ["src/**/*.js", "src/**/*.jsx"],
+    "exclude": ["node_modules"]
+  }
+  
