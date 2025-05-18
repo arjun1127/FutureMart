@@ -40,9 +40,13 @@ FutureMart is an e-commerce web application built with Express.js backend and a 
 ### 🖼️ Screenshots of FutureMart
 
 ![Screenshot 1](Preview/Screenshot%20from%202025-05-18%2007-42-31.png)
+----------------------------------------------------------------------
 ![Screenshot 2](Preview/Screenshot%20from%202025-05-18%2007-43-54.png)
+---------------------------------------------------------------------
 ![Screenshot 3](Preview/Screenshot%20from%202025-05-18%2007-44-14.png)
+---------------------------------------------------------------------
 ![Screenshot 4](Preview/Screenshot%20from%202025-05-18%2007-44-36.png)
+---------------------------------------------------------------------
 ![Screenshot 5](Preview/Screenshot%20from%202025-05-18%2007-45-05.png)
 
 
