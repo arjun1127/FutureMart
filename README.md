@@ -30,9 +30,11 @@ FutureMart is an e-commerce web application built with Express.js backend and a 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/arjun1127/FutureMart.git
+    git clone https://github.com/arjun1127/FutureMart.git
    cd FutureMart
    npm nstall
-  
+   ```
+   
+## Preview
 
-#Preview
+
