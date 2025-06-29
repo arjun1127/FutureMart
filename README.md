@@ -50,3 +50,6 @@ FutureMart is an e-commerce web application built with Express.js backend and a 
 ![Screenshot 5](Preview/Screenshot%20from%202025-05-18%2007-45-05.png)
 
 
+# Contact @ arjunkrao2004@gmail.com for custom frontend design 
+
+
